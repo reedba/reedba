@@ -3,7 +3,7 @@
 🚀 **Software Engineer | AI Enthusiast**  
 📍 Charleston, SC | Remote  
 📧 brandon.andrew.reed@gmail.com  
-🔗 [LinkedIn](#) | [GitHub](#) | [Portfolio](#)  
+🔗 [LinkedIn](https://www.linkedin.com/in/brandon-reed-bronco2022/) | [Portfolio](https://reedba.github.io/portfolio/)  
 
 ---
 
@@ -44,9 +44,8 @@ Currently, I'm diving into **AI Engineering**, focusing on **AI agents for busin
 ### 📫 Let's Connect!
 I'm always open to discussing **AI, software development, and innovative tech solutions**. Feel free to reach out!
 
-💼 [LinkedIn](#)  
-📧 brandon.andrew.reed@gmail.com  
-🚀 [GitHub](#)
+💼 [LinkedIn](https://www.linkedin.com/in/brandon-reed-bronco2022/)  
+📧 brandon.andrew.reed@gmail.com 
 
 ---
 
