@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Brandon Reed
 
-🚀 **Software Engineer | AI Enthusiast**  
+🚀 **AI/Software Engineer**  
 📍 Charleston, SC | Remote  
 📧 brandon.andrew.reed@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/brandon-reed-bronco2022/) | [Portfolio](https://reedba.github.io/portfolio/)  
