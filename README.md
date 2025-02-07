@@ -22,9 +22,10 @@ Currently, I'm diving into **AI Engineering**, focusing on **AI agents for busin
 - Python | Java | Ruby | JavaScript | SQL
 
 #### **Frameworks & Technologies:**
-- Django | Flask | React.js | Spring Boot | Ruby on Rails
+- Django | Flask | React.js | Spring Boot | Ruby on Rails | FastAPI
 - AWS (S3, Credstash) | Docker | REST APIs
-- Agile Methodologies | Jupyter Notebook | Prompt Engineering | Hugging Face
+- Agile Methodologies | Jupyter Notebook | Prompt Engineering | Hugging Face | Gradio
+- OpenAI, Ollama, Claude, Gemeni
 
 ---
 
