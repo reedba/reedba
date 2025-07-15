@@ -8,7 +8,7 @@
 ---
 
 ### About Me
-I'm a **Software Engineer** with over 3 years of experience in software development and 5 years in leadership within manufacturing. My expertise spans full-stack development, API integrations, and cloud technologies, with a focus on delivering high-impact solutions. 
+I'm a **Software Engineer** with over 4 years of experience in software development and 5 years in leadership within manufacturing. My expertise spans full-stack development, API integrations, and cloud technologies, with a focus on delivering high-impact solutions. 
 
 A major achievement includes contributing to **Caseflow**, reducing VA benefit decision wait times from **3 years to under 1 year**, benefiting over **6 million veterans annually**. I thrive at the intersection of **technology and business needs**, optimizing workflows and enhancing customer experiences.
 
